@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\Singletone_Decorator\Singletone_Decorator\bin\Debug\Singletone_Decorator.exe.config
+C:\Users\kevme\source\repos\Singletone_Decorator\Singletone_Decorator\bin\Debug\Singletone_Decorator.exe
+C:\Users\kevme\source\repos\Singletone_Decorator\Singletone_Decorator\bin\Debug\Singletone_Decorator.pdb
+C:\Users\kevme\source\repos\Singletone_Decorator\Singletone_Decorator\obj\Debug\Singletone_Decorator.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\Singletone_Decorator\Singletone_Decorator\obj\Debug\Singletone_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Singletone_Decorator\Singletone_Decorator\obj\Debug\Singletone_Decorator.exe
+C:\Users\kevme\source\repos\Singletone_Decorator\Singletone_Decorator\obj\Debug\Singletone_Decorator.pdb
