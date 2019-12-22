@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\AutosG\AutosG\bin\Debug\AutosG.exe.config
+C:\Users\lenovo\source\repos\AutosG\AutosG\bin\Debug\AutosG.exe
+C:\Users\lenovo\source\repos\AutosG\AutosG\bin\Debug\AutosG.pdb
+C:\Users\lenovo\source\repos\AutosG\AutosG\obj\Debug\AutosG.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\AutosG\AutosG\obj\Debug\AutosG.exe
+C:\Users\lenovo\source\repos\AutosG\AutosG\obj\Debug\AutosG.pdb

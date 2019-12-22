@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutosG", "AutosG\AutosG.csproj", "{DA61B5A8-D02D-416D-9B9E-6015ACA0EA5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA61B5A8-D02D-416D-9B9E-6015ACA0EA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA61B5A8-D02D-416D-9B9E-6015ACA0EA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA61B5A8-D02D-416D-9B9E-6015ACA0EA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA61B5A8-D02D-416D-9B9E-6015ACA0EA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F80EE14-6BAD-42A9-84C8-BC5E65475D12}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/TomyAnchundia3B
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AutosG\\AutosG.csproj
+		SccProjectName1 = AutosG
+		SccLocalPath1 = AutosG
+	EndGlobalSection
+EndGlobal
